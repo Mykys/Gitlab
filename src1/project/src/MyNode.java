@@ -3,6 +3,7 @@ package tree;
 /**
  * This is a node in a binary search tree. The node holds an integer value.
  *
+ * Git lab 1 test status
  * @author Torbjorn Ekman
  * @see MyTree
  */
