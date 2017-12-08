@@ -11,6 +11,7 @@ package tree;
  * Myky likes to modifie MyNode
  * Imperfections in the code here!
  * Mike mike mike
+ * First commit
  * @author Myky Tran
  * @see MyTree
  */
