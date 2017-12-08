@@ -8,7 +8,7 @@ import tree.MyNode;
  * squashcommit123
  * rebasetestABC
  * scenario2test1
- * rebasetestDE
+ * rebasetestDEF
  * Myky the b00n
  * @author Torbjorn Ekman
  * @see MyNode
