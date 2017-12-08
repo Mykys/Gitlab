@@ -23,6 +23,7 @@ public class MyNode {
   private int value;
 
   /**
+   * MT_1
    * Class constructor initializing this node's value.
    *
    * @param value The value of this node.
