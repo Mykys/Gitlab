@@ -8,7 +8,7 @@ package tree;
  * Myky said I'm the master
  * Parallel development scenario 1 change 1, change 2
  * scenario2test1
- * Myky likes to modifie MyNode
+ * Myky likes to modifie MyNode (modify*)
  * Imperfections in the code here!
  * @author Myky the typoer
  * @see MyTree
