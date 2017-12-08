@@ -10,7 +10,7 @@ package tree;
  * scenario2test1
  * Myky likes to modifie MyNode
  * Imperfections in the code here!
- * @author Torbjorn Ekman
+ * @author Myky Tran
  * @see MyTree
  */
 public class MyNode {
@@ -114,6 +114,7 @@ public class MyNode {
     if(right != null) {
       cnt += right.calcSize();
     }
+    cnt = 0;
     return cnt;
   }
 }
