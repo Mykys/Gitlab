@@ -9,7 +9,7 @@ import tree.MyNode;
  * @author Torbjorn Ekman
  * @see MyNode
  */
-public class MyTree {
+public class MykysTree {
   private MyNode root;
 
   /**
@@ -79,4 +79,3 @@ public class MyTree {
     return root.calcSize();
   }
 }
-
