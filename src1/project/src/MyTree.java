@@ -10,6 +10,7 @@ import tree.MyNode;
  * @author Torbjorn Ekman
  * @see MyNode
  */
+
 public class YourTree {
   private MyNode root;
 
@@ -80,4 +81,3 @@ public class YourTree {
     return root.calcSize();
   }
 }
-
