@@ -5,6 +5,7 @@ package tree;
  *
  * Git lab 1 test status
  * Git lab 1 test diff
+ * Myky said I'm the master
  * @author Torbjorn Ekman
  * @see MyTree
  */
