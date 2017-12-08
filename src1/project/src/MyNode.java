@@ -24,6 +24,7 @@ public class MyNode {
 
   /**
    * MT_1
+   * MT_2
    * Class constructor initializing this node's value.
    *
    * @param value The value of this node.
