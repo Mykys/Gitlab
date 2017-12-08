@@ -7,6 +7,7 @@ package tree;
  * Git lab 1 test diff
  * Myky said I'm the master
  * Parallel development scenario 1 change 1, change 2
+ * Myky likes to modifie MyNode
  * @author Torbjorn Ekman
  * @see MyTree
  */
@@ -18,7 +19,7 @@ public class MyNode {
 
   /**
    * Class constructor initializing this node's value.
-   * 
+   *
    * @param value The value of this node.
    */
   public MyNode(int value) {
@@ -113,4 +114,4 @@ public class MyNode {
     }
     return cnt;
   }
-} 
+}
