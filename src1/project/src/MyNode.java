@@ -9,6 +9,7 @@ package tree;
  * Parallel development scenario 1 change 1, change 2
  * scenario2test1
  * Myky likes to modifie MyNode
+ * Imperfections in the code here!
  * @author Torbjorn Ekman
  * @see MyTree
  */
