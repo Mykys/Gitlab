@@ -6,7 +6,7 @@ package tree;
  * Git lab 1 test status
  * Git lab 1 test diff
  * Myky said I'm the master
- * Parallel development scenario 1 change 1, change 2
+ * Parallel development scenario 1 change 1, change 2, 3
  * @author Torbjorn Ekman
  * @see MyTree
  */
