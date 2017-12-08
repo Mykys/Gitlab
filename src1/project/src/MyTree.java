@@ -5,6 +5,8 @@ import tree.MyNode;
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
  *
+ * squashcommit123
+ * rebasetestABC
  * scenario2test1
  * change1,2forreal,3now
  * Myky the b00n
