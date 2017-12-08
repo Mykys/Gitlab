@@ -8,9 +8,10 @@ package tree;
  * Myky said I'm the master
  * Parallel development scenario 1 change 1, change 2
  * scenario2test1
- * Myky likes to modifie MyNode (modify*)
+ * Myky likes to modifie MyNode
  * Imperfections in the code here!
- * @author Myky the typoer
+ * Mike mike mike
+ * @author Myky Tran
  * @see MyTree
  */
 public class MyNode {
@@ -114,11 +115,7 @@ public class MyNode {
     if(right != null) {
       cnt += right.calcSize();
     }
-<<<<<<< HEAD
-    proofreader MT
-=======
     cnt = 0;
->>>>>>> b7ab5213725741121d2e6db00242828de93bc0b7
     return cnt;
   }
 }
