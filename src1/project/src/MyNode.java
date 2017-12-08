@@ -12,10 +12,6 @@ package tree;
  * Imperfections in the code here!
  * Mike mike mike
  * First commit
- * Second commit
- * Third commit
- * Aprime
- * F
  * @author Myky Tran
  * @see MyTree
  */
