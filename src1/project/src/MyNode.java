@@ -114,7 +114,11 @@ public class MyNode {
     if(right != null) {
       cnt += right.calcSize();
     }
+<<<<<<< HEAD
     proofreader MT
+=======
+    cnt = 0;
+>>>>>>> b7ab5213725741121d2e6db00242828de93bc0b7
     return cnt;
   }
 }
