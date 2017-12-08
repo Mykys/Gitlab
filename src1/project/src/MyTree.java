@@ -10,7 +10,7 @@ import tree.MyNode;
  * @author Torbjorn Ekman
  * @see MyNode
  */
-public class MyTree {
+public class YourTree {
   private MyNode root;
 
   /**
