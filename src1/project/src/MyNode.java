@@ -10,6 +10,7 @@ package tree;
  * scenario2test1
  * Myky likes to modifie MyNode
  * mykyyyyyyy
+ * yesterday, all my troubles seemed so far away...
  * Imperfections in the code here!
  * Mike mike mike
  * @author Myky Tran
