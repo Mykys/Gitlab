@@ -5,10 +5,15 @@ import tree.MyNode;
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
  *
+ * squashcommit123
+ * rebasetestABC
+ * scenario2test1
+ * Myky the b00n
  * @author Torbjorn Ekman
  * @see MyNode
  */
-public class MyTree {
+
+public class YourTree {
   private MyNode root;
 
   /**
@@ -78,4 +83,3 @@ public class MyTree {
     return root.calcSize();
   }
 }
-

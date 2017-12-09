@@ -4,8 +4,20 @@ package tree;
  * This is a node in a binary search tree. The node holds an integer value.
  *
  * Git lab 1 test status
- * This is Mykys branch
- * @author Torbjorn Ekman
+ * Git lab 1 test diff
+ * Myky said I'm the master
+ * Parallel development scenario 1 change 1, change 2
+ * scenario2test1
+ * Myky likes to modifie MyNode
+ * Imperfections in the code here!
+ * Mike mike mike
+ * First commit
+ * Second commit
+ * merge_tracking_1
+ * merge_tracking_2
+ * merge_tracking_3
+ * merge_tracking_4
+ * @author Myky Tran
  * @see MyTree
  */
 public class MyNode {
@@ -15,6 +27,9 @@ public class MyNode {
   private int value;
 
   /**
+   * MT_1
+   * MT_2
+   * MT_3
    * Class constructor initializing this node's value.
    *
    * @param value The value of this node.
@@ -109,6 +124,7 @@ public class MyNode {
     if(right != null) {
       cnt += right.calcSize();
     }
+    cnt = 0;
     return cnt;
   }
 }
