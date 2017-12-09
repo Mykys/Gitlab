@@ -16,6 +16,7 @@ import tree.MyNode;
  * cherry
  * blossom
  * sakura
+ * hanami
  * @author Torbjorn Ekman
  * @see MyNode
  */
