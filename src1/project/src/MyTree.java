@@ -15,6 +15,7 @@ import tree.MyNode;
  * testing 'work alone' 2nd paragraph
  * cherry
  * blossom
+ * sakura
  * @author Torbjorn Ekman
  * @see MyNode
  */
