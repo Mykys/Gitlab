@@ -6,6 +6,7 @@ package tree;
  * Git lab 1 test status
  * This is Mykys branch
  * I like this branch very much
+ * smoke on the water, go home you're drunk
  * @author Torbjorn Ekman
  * @see MyTree
  */
