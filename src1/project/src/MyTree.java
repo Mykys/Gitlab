@@ -12,6 +12,7 @@ import tree.MyNode;
  * rebasetestD
  * Myky the b00n
  * Calvin reporting in
+ * testing 'work alone' 2nd paragraph
  * @author Torbjorn Ekman
  * @see MyNode
  */
